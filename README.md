@@ -25,11 +25,9 @@ The theme uses the Tokyo Night color palette, which provides a dark, soothing, a
 
 ## Preview
 
-![Theme Preview1](./Preview/tokyo-night-merkks.png)
-
 Looks nice with [tmux-tokyo-night](https://github.com/fabioluciano/tmux-tokyo-night)
 
-![Theme Preview2](./Preview/tokyo-night-merkks-tmux.png)
+![Theme Preview1](./Preview/tokyo-night-merkks.png)
 
 ## Installation
 
