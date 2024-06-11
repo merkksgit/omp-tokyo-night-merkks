@@ -19,7 +19,7 @@
           "properties": {
             "folder_icon": "\uf115",
             "folder_separator_icon": " \ue0b1 ",
-            "home_icon": "\ueb06",
+            "home_icon": "󰋜",
             "style": "agnoster"
           },
           "style": "powerline",
