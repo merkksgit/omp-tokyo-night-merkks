@@ -8,7 +8,11 @@ The theme uses the Tokyo Night color palette, which provides a dark, soothing, a
 
 ## Preview
 
-![Theme Preview](./Preview/tokyo-night-merkks.png)
+![Theme Preview1](./Preview/tokyo-night-merkks.png)
+
+Looks nice with [tmux-tokyo-night](https://github.com/fabioluciano/tmux-tokyo-night)
+
+![Theme Preview2](./Preview/tokyo-night-merkks-tmux.png)
 
 ## Installation
 
@@ -44,13 +48,17 @@ source ~/.bashrc  # or source ~/.zshrc
 
 ### Customization
 
-Feel free to customize the theme to your liking. The theme file (my-custom-theme.json) contains various settings for prompt elements such as colors, segments, and symbols. Refer to the oh-my-posh [documentation](https://ohmyposh.dev/docs/) for more information on how to customize your theme.
+Feel free to customize the theme to your liking. The theme file (tokyo-night-merkks.omp.json) contains various settings for prompt elements such as colors, segments, and symbols. Refer to the oh-my-posh [documentation](https://ohmyposh.dev/docs/) for more information on how to customize your theme.
 
 ### Acknowledgements
 
 - [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The prompt theme engine that powers this theme.
 
+- [Tokyo Night](https://github.com/enkia/tokyo-night-vscode-theme) - The color palette inspiration for this theme.
 
+### Links
+
+- [Tokyo Night Palette](https://lospec.com/palette-list/tokyo-night)
 
 
 
