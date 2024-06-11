@@ -2,9 +2,26 @@
 
 Welcome to my custom `oh-my-posh` theme repository! This repository contains my personalized theme for `oh-my-posh`, a prompt theme engine for any shell. This theme is designed to enhance your terminal experience by providing a visually appealing and informative prompt.
 
+## Table of Contents
+
+<!-- vim-markdown-toc GFM -->
+
+* [Tokyo Night Color Palette](#tokyo-night-color-palette)
+* [Preview](#preview)
+* [Installation](#installation)
+    * [Prerequisites](#prerequisites)
+    * [Clone the Repository](#clone-the-repository)
+    * [Apply the Theme](#apply-the-theme)
+    * [Customization](#customization)
+    * [Acknowledgements](#acknowledgements)
+
+<!-- vim-markdown-toc -->
+
 ## Tokyo Night Color Palette
 
 The theme uses the Tokyo Night color palette, which provides a dark, soothing, and visually appealing color scheme. This palette is perfect for prolonged use, reducing eye strain and improving readability.
+
+[Color Palette](https://lospec.com/palette-list/tokyo-night)
 
 ## Preview
 
@@ -23,7 +40,7 @@ Looks nice with [tmux-tokyo-night](https://github.com/fabioluciano/tmux-tokyo-ni
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/merkksgit/my-oh-my-posh.git
 ```
 
 ### Apply the Theme
@@ -37,7 +54,7 @@ cp your-repo-name/my-custom-theme.json $POSH_THEMES_PATH
 2. Edit your shell configuration file to use the new theme. For example, add the following line to your .bashrc, .zshrc, or equivalent configuration file:
 
 ```bash
-eval "$(oh-my-posh init bash --config $POSH_THEMES_PATH/my-custom-theme.json)"
+eval "$(oh-my-posh init bash --config $POSH_THEMES_PATH/tokyo-night-merkks.omp.json)"
 ```
 
 3. Reload your shell configuration:
@@ -56,9 +73,7 @@ Feel free to customize the theme to your liking. The theme file (tokyo-night-mer
 
 - [Tokyo Night](https://github.com/enkia/tokyo-night-vscode-theme) - The color palette inspiration for this theme.
 
-### Links
 
-- [Tokyo Night Palette](https://lospec.com/palette-list/tokyo-night)
 
 
 
