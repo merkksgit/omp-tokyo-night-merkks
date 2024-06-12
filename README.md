@@ -6,18 +6,16 @@ Welcome to my custom `oh-my-posh` themes repository! This repository contains my
 
 <!-- vim-markdown-toc GFM -->
 
-- [My Oh-My-Posh Theme](#my-oh-my-posh-theme)
-  - [Table of Contents](#table-of-contents)
-  - [Tokyo Night Color Palette](#tokyo-night-color-palette)
-  - [Preview](#preview)
-    - [Theme: tokyo-night-merkks](#theme-tokyo-night-merkks)
-    - [Theme: v2-tokyo-night-merkks](#theme-v2-tokyo-night-merkks)
-  - [Installation](#installation)
-    - [Prerequisites](#prerequisites)
-    - [Clone the Repository](#clone-the-repository)
-    - [Apply the Theme](#apply-the-theme)
-    - [Customization](#customization)
-    - [Acknowledgements](#acknowledgements)
+* [Tokyo Night Color Palette](#tokyo-night-color-palette)
+* [Preview](#preview)
+    * [Theme: tokyo-night-merkks](#theme-tokyo-night-merkks)
+    * [Theme: v2-tokyo-night-merkks](#theme-v2-tokyo-night-merkks)
+* [Installation](#installation)
+    * [Prerequisites](#prerequisites)
+    * [Clone the Repository](#clone-the-repository)
+    * [Apply the Theme](#apply-the-theme)
+    * [Customization](#customization)
+    * [Acknowledgements](#acknowledgements)
 
 <!-- vim-markdown-toc -->
 
@@ -48,7 +46,7 @@ Looks nice with [tmux-tokyo-night](https://github.com/fabioluciano/tmux-tokyo-ni
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/merkksgit/my-oh-my-posh.git
+git clone https://github.com/merkksgit/omp-tokyo-night-merkks.git
 ```
 
 ### Apply the Theme
