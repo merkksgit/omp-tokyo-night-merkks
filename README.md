@@ -1,33 +1,43 @@
 # My Oh-My-Posh Theme
 
-Welcome to my custom `oh-my-posh` theme repository! This repository contains my personalized theme for `oh-my-posh`, a prompt theme engine for any shell. This theme is designed to enhance your terminal experience by providing a visually appealing and informative prompt.
+Welcome to my custom `oh-my-posh` themes repository! This repository contains my personalized themes for `oh-my-posh`, a prompt theme engine for any shell. These themes are designed to enhance your terminal experience by providing a visually appealing and informative prompt.
 
 ## Table of Contents
 
 <!-- vim-markdown-toc GFM -->
 
-* [Tokyo Night Color Palette](#tokyo-night-color-palette)
-* [Preview](#preview)
-* [Installation](#installation)
-    * [Prerequisites](#prerequisites)
-    * [Clone the Repository](#clone-the-repository)
-    * [Apply the Theme](#apply-the-theme)
-    * [Customization](#customization)
-    * [Acknowledgements](#acknowledgements)
+- [My Oh-My-Posh Theme](#my-oh-my-posh-theme)
+  - [Table of Contents](#table-of-contents)
+  - [Tokyo Night Color Palette](#tokyo-night-color-palette)
+  - [Preview](#preview)
+    - [Theme: tokyo-night-merkks](#theme-tokyo-night-merkks)
+    - [Theme: v2-tokyo-night-merkks](#theme-v2-tokyo-night-merkks)
+  - [Installation](#installation)
+    - [Prerequisites](#prerequisites)
+    - [Clone the Repository](#clone-the-repository)
+    - [Apply the Theme](#apply-the-theme)
+    - [Customization](#customization)
+    - [Acknowledgements](#acknowledgements)
 
 <!-- vim-markdown-toc -->
 
 ## Tokyo Night Color Palette
 
-The theme uses the Tokyo Night color palette, which provides a dark, soothing, and visually appealing color scheme. This palette is perfect for prolonged use, reducing eye strain and improving readability.
+These themes use the Tokyo Night color palette, which provides a dark, soothing, and visually appealing color scheme. This palette is perfect for prolonged use, reducing eye strain and improving readability.
 
 [Color Palette](https://lospec.com/palette-list/tokyo-night)
 
 ## Preview
 
+### Theme: tokyo-night-merkks
+
 Looks nice with [tmux-tokyo-night](https://github.com/fabioluciano/tmux-tokyo-night)
 
 ![Theme Preview1](./Preview/tokyo-night-merkks.png)
+
+### Theme: v2-tokyo-night-merkks
+
+![Theme Preview2](./Preview/v2-tokyo-night-merkks.png)
 
 ## Installation
 
