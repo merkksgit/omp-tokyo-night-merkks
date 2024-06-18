@@ -6,16 +6,20 @@ Welcome to my custom `oh-my-posh` themes repository! This repository contains my
 
 <!-- vim-markdown-toc GFM -->
 
-* [Tokyo Night Color Palette](#tokyo-night-color-palette)
-* [Preview](#preview)
-    * [Theme: tokyo-night-merkks](#theme-tokyo-night-merkks)
-    * [Theme: v2-tokyo-night-merkks](#theme-v2-tokyo-night-merkks)
-* [Installation](#installation)
-    * [Prerequisites](#prerequisites)
-    * [Clone the Repository](#clone-the-repository)
-    * [Apply the Theme](#apply-the-theme)
-    * [Customization](#customization)
-    * [Acknowledgements](#acknowledgements)
+- [My Oh-My-Posh Theme](#my-oh-my-posh-theme)
+  - [Table of Contents](#table-of-contents)
+  - [Tokyo Night Color Palette](#tokyo-night-color-palette)
+  - [Font](#font)
+  - [Preview](#preview)
+    - [Theme: tokyo-night-merkks](#theme-tokyo-night-merkks)
+    - [Theme: v2-tokyo-night-merkks](#theme-v2-tokyo-night-merkks)
+    - [Theme: dark-night-merkks](#theme-dark-night-merkks)
+  - [Installation](#installation)
+    - [Prerequisites](#prerequisites)
+    - [Clone the Repository](#clone-the-repository)
+    - [Apply the Theme](#apply-the-theme)
+    - [Customization](#customization)
+    - [Acknowledgements](#acknowledgements)
 
 <!-- vim-markdown-toc -->
 
@@ -24,6 +28,10 @@ Welcome to my custom `oh-my-posh` themes repository! This repository contains my
 These themes use the Tokyo Night color palette, which provides a dark, soothing, and visually appealing color scheme. This palette is perfect for prolonged use, reducing eye strain and improving readability.
 
 [Color Palette](https://lospec.com/palette-list/tokyo-night)
+
+## Font
+
+[Nerd Fonts](https://www.nerdfonts.com/) JetBrainsMono Nerd Font
 
 ## Preview
 
@@ -36,6 +44,10 @@ Looks nice with [tmux-tokyo-night](https://github.com/fabioluciano/tmux-tokyo-ni
 ### Theme: v2-tokyo-night-merkks
 
 ![Theme Preview2](./Preview/v2-tokyo-night-merkks.png)
+
+### Theme: dark-night-merkks
+
+![Theme Preview3](./Preview/dark-night-merkks.png)
 
 ## Installation
 
