@@ -14,6 +14,7 @@ Welcome to my custom `oh-my-posh` themes repository! This repository contains my
     - [Theme: tokyo-night-merkks](#theme-tokyo-night-merkks)
     - [Theme: v2-tokyo-night-merkks](#theme-v2-tokyo-night-merkks)
     - [Theme: dark-night-merkks](#theme-dark-night-merkks)
+    - [Theme: zen.merkks](#theme-zenmerkks)
   - [Installation](#installation)
     - [Prerequisites](#prerequisites)
     - [Clone the Repository](#clone-the-repository)
@@ -48,6 +49,10 @@ Looks nice with [tmux-tokyo-night](https://github.com/fabioluciano/tmux-tokyo-ni
 ### Theme: dark-night-merkks
 
 ![Theme Preview3](./Preview/dark-night-merkks.png)
+
+### Theme: zen.merkks
+
+![Theme Preview4](./Preview/zen.merkks.png)
 
 ## Installation
 
