@@ -25,7 +25,7 @@ console_title_template = '{{ .Shell }} in {{ .Folder }}'
     style = 'plain'
     foreground = 'p:grey'
     background = 'transparent'
-    template = ' {{ .HEAD }}{{ if or (.Working.Changed) (.Staging.Changed) }} {{ end }} <blue>{{ if gt .Behind 0 }}󰜮{{ end }}{{ if gt .Ahead 0 }}󰜷{{ end }}</>'
+    template = " {{ .HEAD }}{{ if and (eq .Ahead 0) (eq .Behind 0) }} ≡{{end}}{{ if gt .Ahead 0 }} 󰜷 {{.Ahead}}{{end}}{{ if gt .Behind 0 }} 󰜮 {{.Behind}}{{end}} {{ if .Working.Changed }}+{{ .Working.Added }} 󰜥{{ .Working.Modified }} {{ .Working.Deleted }} {{ end }}" 
 
     [blocks.segments.properties]
       branch_icon = ' '
